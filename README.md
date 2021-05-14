@@ -1,5 +1,4 @@
 # SoftUni-Software-Engineering
-Course exercises | Software University | Karolina Nikolova
 
 # <p align="center"> Courses from the main program in SoftUni <p>
 
