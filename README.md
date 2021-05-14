@@ -16,9 +16,7 @@ Course exercises | Software University | Karolina Nikolova
 <table>
 
 <tr>
-  <th> C# </th>
-  <th> JavaScript </th>
-  <th> Front-End </th>
+  <th> Python </th>
 </tr>
 
 <tr>
