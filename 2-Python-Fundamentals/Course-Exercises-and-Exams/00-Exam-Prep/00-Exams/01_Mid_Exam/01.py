@@ -14,3 +14,4 @@ if price <= budget:
     print(f"Items purchased for {price:.2f}$.")
 else:
     print(f"{price-budget:.2f}$ more needed.")
+
