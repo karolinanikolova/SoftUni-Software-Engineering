@@ -27,5 +27,6 @@ for col in range(cols):
     if is_symbol_in_matrix:
         break
 
+
 if not is_symbol_in_matrix:
     print(f"{symbol} does not occur in the matrix")
