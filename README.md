@@ -19,7 +19,7 @@
 <tr>
 <td>
 
-| **Course**                                                            | **Link**                                                                 |
+| **Course**                                                            | **Certificate**                                                                 |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------|
 | <a href="https://softuni.bg/trainings/3065/programming-basics-with-python-september-2020" > Programming Basics with Python </a>     | <a href="https://softuni.bg/certificates/details/89202/26e4de33"> Link</a> |
 | <a href="https://softuni.bg/trainings/3204/python-fundamentals-january-2021"> Programming Fundamentals with Python </a>             | <a href="https://softuni.bg/certificates/details/102818/94153ce0"> Link</a> |
