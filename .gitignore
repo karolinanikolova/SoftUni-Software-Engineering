@@ -1,3 +1,5 @@
 .idea/
+
+# Environments
 .venv/
 venv/
