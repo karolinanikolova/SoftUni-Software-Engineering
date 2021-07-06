@@ -1,3 +1,3 @@
-{"username": "kvvn93", "password": "123", "first_name": "Karolina", "last_name": "Nikolova", "products": [1, 1, 2, 2, 3, 3, 3, 3, 3]}
+{"username": "kvvn93", "password": "123", "first_name": "Karolina", "last_name": "Nikolova", "products": [1, 1, 2, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3]}
 {"username": "HelloUser", "password": "1234", "first_name": "Hello", "last_name": "World", "products": []}
 {"username": "vasilnik.69", "password": "110593", "first_name": "Vasil ", "last_name": "Nikolov", "products": []}
