@@ -1,4 +1,4 @@
-from lab.math_operations import calculate_expression
+from modules.lab.math_operations import calculate_expression
 
 expressions = [
     '2.5 * 2',

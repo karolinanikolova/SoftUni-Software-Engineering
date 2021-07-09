@@ -4,8 +4,8 @@ import os
 from tkinter import Button, Label
 from PIL import Image, ImageTk
 
-from gui_shop.canvas import tk
-from gui_shop.helpers import clean_screen
+from modules.gui_shop.canvas import tk
+from modules.gui_shop.helpers import clean_screen
 
 # Path to current file
 base_folder = os.path.dirname(__file__)

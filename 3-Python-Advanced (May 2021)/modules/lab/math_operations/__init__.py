@@ -1,4 +1,4 @@
-from lab.math_operations.operations import add, divide, multiply, power, subtract
+from modules.lab.math_operations.operations import add, divide, multiply, power, subtract
 
 
 def calculate_expression(expression):

@@ -10,7 +10,7 @@
 # And if it doesn't find it:
 # "The number {number} is not in the sequence"
 
-from lab.fibonacci_sequence.fibonacci_sequence import create_sequence, locate
+from modules.lab.fibonacci_sequence.fibonacci_sequence import create_sequence, locate
 
 
 print(*create_sequence(10))
