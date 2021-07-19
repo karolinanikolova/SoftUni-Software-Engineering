@@ -6,7 +6,7 @@ print(current_dir)
 print(__file__)
 
 # TODO: commented out part to be fixed
-path = os.path.abspath(os.path.join(current_dir, "..", "02_Exercises", "demo_test.txt"))
+path = os.path.abspath(os.path.join(current_dir, "..", "exercises", "demo_test.txt"))
 
 print(path)
 
